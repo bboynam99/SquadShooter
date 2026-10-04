@@ -1,9 +1,9 @@
 const cacheName = "NextLab-SquadSurvivors-1.0.0";
 const contentToCache = [
     "Build/SquadSurvivors.loader.js",
-    "Build/SquadSurvivors.framework.js.gz",
-    "Build/SquadSurvivors.data.gz",
-    "Build/SquadSurvivors.wasm.gz",
+    "Build/SquadSurvivors.framework.js",
+    "Build/SquadSurvivors.data",
+    "Build/SquadSurvivors.wasm",
     "TemplateData/style.css"
 
 ];
